@@ -1,8 +1,7 @@
 package com.moofiyTv.mossapp.LSP_IS.wrong;
 
-import com.moofiyTv.mossapp.LSP_IS.correct.Flyable;
 
-public class Penguin implements Bird {
+public class Penguin implements Birds {
     @Override
     public void fly() {
         throw new AssertionError("I Can't fly");

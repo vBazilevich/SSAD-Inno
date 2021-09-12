@@ -1,7 +1,8 @@
 package com.moofiyTv.mossapp.LSP_IS.wrong;
 
+
 // liskov princible the parent and the child can be relacable
-public class Duck implements Bird {
+public class Duck implements Birds {
     @Override
     public void fly() {
         System.out.println("Flying...");

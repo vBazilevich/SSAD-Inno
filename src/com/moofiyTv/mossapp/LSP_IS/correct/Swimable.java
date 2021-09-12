@@ -1,5 +1,5 @@
 package com.moofiyTv.mossapp.LSP_IS.correct;
 
-public interface Swimable {
+ interface Swimable {
     void swim();
 }
