@@ -1,6 +1,8 @@
 package com.inno.moofiy.ssad.labs.observer;
 
 
+import com.inno.moofiy.ssad.labs.builders.Game;
+
 import java.util.ArrayList;
 import java.util.List;
 

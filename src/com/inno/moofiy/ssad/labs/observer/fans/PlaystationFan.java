@@ -1,6 +1,6 @@
 package com.inno.moofiy.ssad.labs.observer.fans;
 
-import com.inno.moofiy.ssad.labs.observer.Game;
+import com.inno.moofiy.ssad.labs.builders.Game;
 import com.inno.moofiy.ssad.labs.observer.Observer;
 
 public class PlaystationFan implements Observer<Game> {

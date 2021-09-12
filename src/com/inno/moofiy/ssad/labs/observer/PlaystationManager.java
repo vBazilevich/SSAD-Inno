@@ -1,6 +1,8 @@
 package com.inno.moofiy.ssad.labs.observer;
 
 
+import com.inno.moofiy.ssad.labs.builders.Game;
+
 import java.util.Scanner;
 
 public class PlaystationManager {
@@ -20,7 +22,8 @@ public class PlaystationManager {
             String line = scanner.nextLine();
             if (line.contains("exit"))
                 break;
-            Game game = new Game(line);
+            Game game = new Game();
+            game.title(line).company("FromSoftware");
             playstaion.notify(game);
         }
     }
