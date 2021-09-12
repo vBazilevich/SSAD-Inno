@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b9fce70f-a343-4d4f-8d81-d1916aba2b8f" name="Default Changelist" comment="init Commit">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/moofiyTv/mossapp/LSP_IS/correct/Bird.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/moofiyTv/mossapp/LSP_IS/correct/Flyable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/moofiyTv/mossapp/LSP_IS/correct/Pengun.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/moofiyTv/mossapp/LSP_IS/correct/Pigeon.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/moofiyTv/mossapp/LSP_IS/correct/Swimable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/moofiyTv/mossapp/LSP_IS/wrong/Bird.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/moofiyTv/mossapp/LSP_IS/wrong/Duck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/moofiyTv/mossapp/LSP_IS/wrong/Penguin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/moofiyTv/mossapp/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/moofiyTv/mossapp/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/moofiyTv/mossapp/OCP_DI/correct/Addition.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/moofiyTv/mossapp/OCP_DI/correct/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/moofiyTv/mossapp/OCP_DI/correct/Operation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/moofiyTv/mossapp/OCP_DI/correct/Substraction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/moofiyTv/mossapp/OCP_DI/wrong/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/moofiyTv/mossapp/SRP/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/moofiyTv/mossapp/SRP/correct/Cart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/moofiyTv/mossapp/SRP/correct/CartOperations.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/moofiyTv/mossapp/SRP/correct/Discounts.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/moofiyTv/mossapp/SRP/wrong/Cart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/moofiyTv/mossapp/homework/Human.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/moofiyTv/mossapp/homework/Needs.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="SOLID" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1xjIervPUUSQicxzSXKcJQg0srw" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.moofiyTv.mossapp.LSP_IS.test" />
+      <recent name="com.moofiyTv.mossapp.OCP_DI.test2" />
+      <recent name="com.moofiyTv.mossapp.OCP_DI.test" />
+      <recent name="com.moofiyTv.mossapp.OCP_DI.labtest" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="CalcX" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.moofiyTv.mossapp.OCP_DI.test2.Calculator" />
+      <module name="SSAD-Inno" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b9fce70f-a343-4d4f-8d81-d1916aba2b8f" name="Default Changelist" comment="" />
+      <created>1630862168428</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1630862168428</updated>
+      <workItem from="1630862169514" duration="272000" />
+      <workItem from="1630943807376" duration="866000" />
+      <workItem from="1630995576516" duration="2648000" />
+      <workItem from="1630999739998" duration="4674000" />
+      <workItem from="1631014882045" duration="1060000" />
+      <workItem from="1631103743716" duration="1327000" />
+      <workItem from="1631455421861" duration="963000" />
+    </task>
+    <task id="LOCAL-00001" summary="init Commit">
+      <created>1630862335238</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1630862335238</updated>
+    </task>
+    <task id="LOCAL-00002" summary="init Commit">
+      <created>1630862435314</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1630862435314</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Explaining the SOLID">
+      <created>1631456798426</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1631456798426</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init Commit" />
+    <MESSAGE value="Explaining the SOLID" />
+    <option name="LAST_COMMIT_MESSAGE" value="Explaining the SOLID" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="104" y="62" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1631015422654">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="104" y="62" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.800@0.0.1280.800" timestamp="1631015422654" />
+    <state x="2151" y="-49" key="#com.intellij.ide.util.MemberChooser" timestamp="1631456758024">
+      <screen x="1440" y="-211" width="1920" height="1057" />
+    </state>
+    <state x="474" y="123" key="#com.intellij.ide.util.MemberChooser/0.0.1280.800@0.0.1280.800" timestamp="1631015767747" />
+    <state x="533" y="138" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1631104838211" />
+    <state x="2151" y="-49" key="#com.intellij.ide.util.MemberChooser/0.23.1440.831/1440.-211.1920.1057@1440.-211.1920.1057" timestamp="1631456758024" />
+    <state x="533" y="151" key="#com.intellij.ide.util.MemberChooser/0.23.1440.831@0.23.1440.831" timestamp="1630944206406" />
+    <state x="711" y="178" key="#com.intellij.ide.util.MemberChooser/0.23.1920.1009@0.23.1920.1009" timestamp="1631000527182" />
+    <state x="377" y="209" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1631015421844">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="377" y="209" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1280.800@0.0.1280.800" timestamp="1631015421844" />
+    <state x="2051" y="4" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1631456677077">
+      <screen x="1440" y="-211" width="1920" height="1057" />
+    </state>
+    <state x="458" y="183" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1631104382402" />
+    <state x="2051" y="4" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.831/1440.-211.1920.1057@1440.-211.1920.1057" timestamp="1631456677077" />
+    <state x="458" y="192" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.831@0.23.1440.831" timestamp="1630944425268" />
+    <state x="1836" y="-211" width="846" height="831" key="CommitChangelistDialog2" timestamp="1631456798187">
+      <screen x="1440" y="-211" width="1920" height="1057" />
+    </state>
+    <state x="1836" y="-211" key="CommitChangelistDialog2/0.23.1440.831/1440.-211.1920.1057@1440.-211.1920.1057" timestamp="1631456798187" />
+    <state x="297" y="23" width="846" height="831" key="CommitChangelistDialog2/0.23.1440.831@0.23.1440.831" timestamp="1630862435154" />
+    <state width="1238" height="212" key="GridCell.Tab.0.bottom" timestamp="1631015943325">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="212" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1631015943325" />
+    <state width="1238" height="212" key="GridCell.Tab.0.center" timestamp="1631015943323">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="212" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1631015943323" />
+    <state width="1238" height="212" key="GridCell.Tab.0.left" timestamp="1631015943322">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="212" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1631015943322" />
+    <state width="1238" height="212" key="GridCell.Tab.0.right" timestamp="1631015943324">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="212" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1631015943324" />
+    <state x="1867" y="-15" key="Vcs.Push.Dialog.v2" timestamp="1631456799686">
+      <screen x="1440" y="-211" width="1920" height="1057" />
+    </state>
+    <state x="1867" y="-15" key="Vcs.Push.Dialog.v2/0.23.1440.831/1440.-211.1920.1057@1440.-211.1920.1057" timestamp="1631456799686" />
+    <state x="320" y="177" key="Vcs.Push.Dialog.v2/0.23.1440.831@0.23.1440.831" timestamp="1630862436295" />
+    <state x="100" y="100" width="1240" height="700" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1631104893105">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state x="100" y="100" width="1240" height="700" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1440.900@0.0.1440.900" timestamp="1631104422612" />
+    <state x="100" y="100" width="1240" height="700" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1440.831@0.23.1440.831" timestamp="1631104893105" />
+    <state width="800" height="520" key="javadoc.popup" timestamp="1630998586878">
+      <screen x="0" y="23" width="1920" height="1009" />
+    </state>
+    <state width="600" height="428" key="javadoc.popup/0.23.1440.831@0.23.1440.831" timestamp="1630944161765" />
+    <state width="800" height="520" key="javadoc.popup/0.23.1920.1009@0.23.1920.1009" timestamp="1630998586878" />
+    <state x="319" y="60" key="new project wizard" timestamp="1630862272486">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state x="319" y="60" key="new project wizard/0.23.1440.831@0.23.1440.831" timestamp="1630862272486" />
+  </component>
+</project>
