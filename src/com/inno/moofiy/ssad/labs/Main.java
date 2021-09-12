@@ -1,4 +1,4 @@
-package com.moofiyTv.mossapp;
+package com.inno.moofiy.ssad.labs;
 
 public class Main {
 
