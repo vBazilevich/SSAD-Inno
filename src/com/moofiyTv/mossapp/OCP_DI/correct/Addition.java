@@ -1,7 +1,8 @@
 package com.moofiyTv.mossapp.OCP_DI.correct;
 
 public class Addition implements Operation {
-    private double left, right;
+
+    double left, right;
 
     public Addition(double left, double right) {
         this.left = left;

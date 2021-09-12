@@ -19,6 +19,6 @@ public class Duck implements Bird {
 
     @Override
     public void swim() {
-        throw new AssertionError("I Can't swim");
+        throw new AssertionError("I Can swim");
     }
 }

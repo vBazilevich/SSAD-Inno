@@ -1,12 +1,12 @@
 package com.moofiyTv.mossapp.OCP_DI.correct;
 
-public class Substraction implements Operation {
+public class Subtract implements Operation {
 
-    double right, left;
+    double left, right;
 
-    public Substraction(double right, double left) {
-        this.right = right;
+    public Subtract(double left, double right) {
         this.left = left;
+        this.right = right;
     }
 
     @Override

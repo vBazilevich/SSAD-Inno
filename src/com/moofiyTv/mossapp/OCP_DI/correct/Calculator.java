@@ -1,18 +1,31 @@
 package com.moofiyTv.mossapp.OCP_DI.correct;
 
-public class Calculator {
-    double result;
+//❌❌❌❌
+// how many SOLID Principle does it violate ?
+// Fix it !!
 
-    void calculate(Operation operation) {
-        result = operation.operate();
+// l - r
+// r + l
+// DI : high = Abstract class
+// low : classes
+//
+public class Calculator {
+    private double left;
+    private double right;
+
+
+    public double calculate(Operation operation) {
+        return operation.operate();
     }
 
-    public static void main(String[] args) {
+    void main() {
         Calculator calculator = new Calculator();
-        Addition addition = new Addition(5, 6);
-        calculator.calculate(addition);
-        Substraction substraction = new Substraction(4, 3);
-        calculator.calculate(substraction);
+        Addition add = new Addition(2,8);
+        Subtract subtract = new Subtract(2,8);
+        calculator.calculate(add);
+        calculator.calculate(subtract);
     }
 
 }
+
+

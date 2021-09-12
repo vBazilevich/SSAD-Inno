@@ -13,7 +13,8 @@ public class Calculator {
     private double left;
     private double right;
 
-    enum Operation {ADD, SUBTRACT, DIVIDE,MULTIPLICATION}
+    enum Operation {ADD, SUBTRACT, DIVIDE}
+
 
     public double calculate(Operation operation) {
         double result;
@@ -34,8 +35,8 @@ public class Calculator {
 
     void main() {
         Calculator calculator = new Calculator();
-        calculator.calculate(Operation.ADD);
         calculator.calculate(Operation.SUBTRACT);
+        System.out.println(calculator.calculate(Operation.ADD));
     }
 
 }
