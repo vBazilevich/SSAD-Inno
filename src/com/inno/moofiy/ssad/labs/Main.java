@@ -13,8 +13,8 @@ public class Main {
 	// welcome to class
         System.out.println("Welcome to class");
         PlaystationManager manager = new PlaystationManager();
-        DarkSoulsFan fan1= new DarkSoulsFan();
-        HorizonFan fan2= new HorizonFan();
+        DarkSoulsFan   fan1= new DarkSoulsFan();
+        HorizonFan     fan2= new HorizonFan();
         PlaystationFan fan3= new PlaystationFan();
         manager.subscribeToPlaystaion(fan1);
         manager.subscribeToPlaystaion(fan2);
