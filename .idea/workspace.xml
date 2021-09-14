@@ -1,29 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="b9fce70f-a343-4d4f-8d81-d1916aba2b8f" name="Default Changelist" comment="init Commit">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/moofiyTv/mossapp/LSP_IS/correct/Bird.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/moofiyTv/mossapp/LSP_IS/correct/Flyable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/moofiyTv/mossapp/LSP_IS/correct/Pengun.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/moofiyTv/mossapp/LSP_IS/correct/Pigeon.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/moofiyTv/mossapp/LSP_IS/correct/Swimable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/moofiyTv/mossapp/LSP_IS/wrong/Bird.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/moofiyTv/mossapp/LSP_IS/wrong/Duck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/moofiyTv/mossapp/LSP_IS/wrong/Penguin.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/moofiyTv/mossapp/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/moofiyTv/mossapp/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/moofiyTv/mossapp/OCP_DI/correct/Addition.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/moofiyTv/mossapp/OCP_DI/correct/Calculator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/moofiyTv/mossapp/OCP_DI/correct/Operation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/moofiyTv/mossapp/OCP_DI/correct/Substraction.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/moofiyTv/mossapp/OCP_DI/wrong/Calculator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/moofiyTv/mossapp/SRP/Product.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/moofiyTv/mossapp/SRP/correct/Cart.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/moofiyTv/mossapp/SRP/correct/CartOperations.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/moofiyTv/mossapp/SRP/correct/Discounts.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/moofiyTv/mossapp/SRP/wrong/Cart.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/moofiyTv/mossapp/homework/Human.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/moofiyTv/mossapp/homework/Needs.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/inno/moofiy/ssad/labs/Adapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/inno/moofiy/ssad/labs/SuperSmartList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,15 +18,16 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="package-info" />
-        <option value="Class" />
+        <option value="UML Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="SOLID" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -63,10 +48,11 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultPlantUmlFileTemplate" value="UML Class" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/uml" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -75,28 +61,24 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.inno.moofiy.ssad.labs.observer" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.inno.moofiy.ssad.labs.observer" />
       <recent name="com.moofiyTv.mossapp.LSP_IS.test" />
       <recent name="com.moofiyTv.mossapp.OCP_DI.test2" />
       <recent name="com.moofiyTv.mossapp.OCP_DI.test" />
       <recent name="com.moofiyTv.mossapp.OCP_DI.labtest" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/uml" />
+    </key>
   </component>
   <component name="RunManager">
-    <configuration name="CalcX" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="com.moofiyTv.mossapp.OCP_DI.test2.Calculator" />
+    <configuration name="main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.inno.moofiy.ssad.labs.Main" />
       <module name="SSAD-Inno" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -117,6 +99,9 @@
       <workItem from="1631014882045" duration="1060000" />
       <workItem from="1631103743716" duration="1327000" />
       <workItem from="1631455421861" duration="963000" />
+      <workItem from="1631460354121" duration="4325000" />
+      <workItem from="1631529825461" duration="452000" />
+      <workItem from="1631540201097" duration="1130000" />
     </task>
     <task id="LOCAL-00001" summary="init Commit">
       <created>1630862335238</created>
@@ -139,79 +124,156 @@
       <option name="project" value="LOCAL" />
       <updated>1631456798426</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="init observer">
+      <created>1631461695258</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1631461695258</updated>
+    </task>
+    <task id="LOCAL-00005" summary="init Commit">
+      <created>1631461765412</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1631461765412</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add Builder">
+      <created>1631464563202</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1631464563202</updated>
+    </task>
+    <task id="LOCAL-00007" summary="init Commit">
+      <created>1631540243769</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1631540243769</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="init Commit" />
     <MESSAGE value="Explaining the SOLID" />
-    <option name="LAST_COMMIT_MESSAGE" value="Explaining the SOLID" />
+    <MESSAGE value="init observer" />
+    <MESSAGE value="add Builder" />
+    <MESSAGE value="init Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="init Commit" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="104" y="62" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1631015422654">
-      <screen x="0" y="0" width="1280" height="800" />
+    <state x="2000" y="-35" key="#Plugins" timestamp="1631460339815">
+      <screen x="1440" y="-211" width="1920" height="1057" />
+    </state>
+    <state x="2000" y="-35" key="#Plugins/0.23.1440.831/1440.-211.1920.1057@1440.-211.1920.1057" timestamp="1631460339815" />
+    <state x="1596" y="-129" width="1607" height="949" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1631459652605">
+      <screen x="1440" y="-211" width="1920" height="1057" />
     </state>
     <state x="104" y="62" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.800@0.0.1280.800" timestamp="1631015422654" />
-    <state x="2151" y="-49" key="#com.intellij.ide.util.MemberChooser" timestamp="1631456758024">
-      <screen x="1440" y="-211" width="1920" height="1057" />
+    <state x="1596" y="-129" width="1607" height="949" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.831/1440.-211.1920.1057@1440.-211.1920.1057" timestamp="1631459652605" />
+    <state x="533" y="150" key="#com.intellij.ide.util.MemberChooser" timestamp="1631542830643">
+      <screen x="0" y="23" width="1440" height="829" />
     </state>
     <state x="474" y="123" key="#com.intellij.ide.util.MemberChooser/0.0.1280.800@0.0.1280.800" timestamp="1631015767747" />
     <state x="533" y="138" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1631104838211" />
-    <state x="2151" y="-49" key="#com.intellij.ide.util.MemberChooser/0.23.1440.831/1440.-211.1920.1057@1440.-211.1920.1057" timestamp="1631456758024" />
+    <state x="533" y="150" key="#com.intellij.ide.util.MemberChooser/0.23.1440.829/1440.-211.1920.1057@0.23.1440.829" timestamp="1631542830643" />
+    <state x="2151" y="-49" key="#com.intellij.ide.util.MemberChooser/0.23.1440.831/1440.-211.1920.1057@1440.-211.1920.1057" timestamp="1631459678849" />
     <state x="533" y="151" key="#com.intellij.ide.util.MemberChooser/0.23.1440.831@0.23.1440.831" timestamp="1630944206406" />
+    <state x="2151" y="-49" key="#com.intellij.ide.util.MemberChooser/0.23.1440.832/1440.-211.1920.1057@1440.-211.1920.1057" timestamp="1631464128862" />
     <state x="711" y="178" key="#com.intellij.ide.util.MemberChooser/0.23.1920.1009@0.23.1920.1009" timestamp="1631000527182" />
-    <state x="377" y="209" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1631015421844">
-      <screen x="0" y="0" width="1280" height="800" />
+    <state x="2006" y="65" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1631459645140">
+      <screen x="1440" y="-211" width="1920" height="1057" />
     </state>
     <state x="377" y="209" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1280.800@0.0.1280.800" timestamp="1631015421844" />
+    <state x="2006" y="65" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1440.831/1440.-211.1920.1057@1440.-211.1920.1057" timestamp="1631459645140" />
+    <state x="2174" y="219" width="476" height="205" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1631460525314">
+      <screen x="1440" y="-211" width="1920" height="1057" />
+    </state>
+    <state x="2174" y="219" width="476" height="205" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1440.831/1440.-211.1920.1057@1440.-211.1920.1057" timestamp="1631460525314" />
     <state x="2051" y="4" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1631456677077">
       <screen x="1440" y="-211" width="1920" height="1057" />
     </state>
     <state x="458" y="183" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1631104382402" />
     <state x="2051" y="4" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.831/1440.-211.1920.1057@1440.-211.1920.1057" timestamp="1631456677077" />
     <state x="458" y="192" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.831@0.23.1440.831" timestamp="1630944425268" />
-    <state x="1836" y="-211" width="846" height="831" key="CommitChangelistDialog2" timestamp="1631456798187">
+    <state x="297" y="23" width="846" height="652" key="CommitChangelistDialog2" timestamp="1631540243219">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state x="297" y="23" width="846" height="652" key="CommitChangelistDialog2/0.23.1440.829/1440.-211.1920.1057@0.23.1440.829" timestamp="1631540243219" />
+    <state x="1836" y="-211" key="CommitChangelistDialog2/0.23.1440.831/1440.-211.1920.1057@1440.-211.1920.1057" timestamp="1631461765261" />
+    <state x="297" y="23" width="846" height="831" key="CommitChangelistDialog2/0.23.1440.831@0.23.1440.831" timestamp="1630862435154" />
+    <state x="1836" y="-211" key="CommitChangelistDialog2/0.23.1440.832/1440.-211.1920.1057@1440.-211.1920.1057" timestamp="1631464562963" />
+    <state x="1540" y="-111" width="1720" height="857" key="DiffContextDialog" timestamp="1631464546678">
       <screen x="1440" y="-211" width="1920" height="1057" />
     </state>
-    <state x="1836" y="-211" key="CommitChangelistDialog2/0.23.1440.831/1440.-211.1920.1057@1440.-211.1920.1057" timestamp="1631456798187" />
-    <state x="297" y="23" width="846" height="831" key="CommitChangelistDialog2/0.23.1440.831@0.23.1440.831" timestamp="1630862435154" />
-    <state width="1238" height="212" key="GridCell.Tab.0.bottom" timestamp="1631015943325">
-      <screen x="0" y="0" width="1280" height="800" />
+    <state x="1540" y="-111" width="1720" height="857" key="DiffContextDialog/0.23.1440.832/1440.-211.1920.1057@1440.-211.1920.1057" timestamp="1631464546678" />
+    <state width="1398" height="215" key="GridCell.Tab.0.bottom" timestamp="1631474067720">
+      <screen x="0" y="23" width="1440" height="832" />
     </state>
     <state width="1238" height="212" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1631015943325" />
-    <state width="1238" height="212" key="GridCell.Tab.0.center" timestamp="1631015943323">
-      <screen x="0" y="0" width="1280" height="800" />
+    <state width="1878" height="289" key="GridCell.Tab.0.bottom/0.23.1440.831/1440.-211.1920.1057@1440.-211.1920.1057" timestamp="1631460240108" />
+    <state width="1398" height="215" key="GridCell.Tab.0.bottom/0.23.1440.832@0.23.1440.832" timestamp="1631474067720" />
+    <state width="1398" height="215" key="GridCell.Tab.0.bottom/0.23.1440.833/1440.-211.1920.1057@0.23.1440.833" timestamp="1631466943817" />
+    <state width="1398" height="215" key="GridCell.Tab.0.center" timestamp="1631474067720">
+      <screen x="0" y="23" width="1440" height="832" />
     </state>
     <state width="1238" height="212" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1631015943323" />
-    <state width="1238" height="212" key="GridCell.Tab.0.left" timestamp="1631015943322">
-      <screen x="0" y="0" width="1280" height="800" />
+    <state width="1878" height="289" key="GridCell.Tab.0.center/0.23.1440.831/1440.-211.1920.1057@1440.-211.1920.1057" timestamp="1631460240107" />
+    <state width="1398" height="215" key="GridCell.Tab.0.center/0.23.1440.832@0.23.1440.832" timestamp="1631474067720" />
+    <state width="1398" height="215" key="GridCell.Tab.0.center/0.23.1440.833/1440.-211.1920.1057@0.23.1440.833" timestamp="1631466943814" />
+    <state width="1398" height="215" key="GridCell.Tab.0.left" timestamp="1631474067720">
+      <screen x="0" y="23" width="1440" height="832" />
     </state>
     <state width="1238" height="212" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1631015943322" />
-    <state width="1238" height="212" key="GridCell.Tab.0.right" timestamp="1631015943324">
-      <screen x="0" y="0" width="1280" height="800" />
+    <state width="1878" height="289" key="GridCell.Tab.0.left/0.23.1440.831/1440.-211.1920.1057@1440.-211.1920.1057" timestamp="1631460240106" />
+    <state width="1398" height="215" key="GridCell.Tab.0.left/0.23.1440.832@0.23.1440.832" timestamp="1631474067720" />
+    <state width="1398" height="215" key="GridCell.Tab.0.left/0.23.1440.833/1440.-211.1920.1057@0.23.1440.833" timestamp="1631466943812" />
+    <state width="1398" height="215" key="GridCell.Tab.0.right" timestamp="1631474067720">
+      <screen x="0" y="23" width="1440" height="832" />
     </state>
     <state width="1238" height="212" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1631015943324" />
-    <state x="1867" y="-15" key="Vcs.Push.Dialog.v2" timestamp="1631456799686">
+    <state width="1878" height="289" key="GridCell.Tab.0.right/0.23.1440.831/1440.-211.1920.1057@1440.-211.1920.1057" timestamp="1631460240108" />
+    <state width="1398" height="215" key="GridCell.Tab.0.right/0.23.1440.832@0.23.1440.832" timestamp="1631474067720" />
+    <state width="1398" height="215" key="GridCell.Tab.0.right/0.23.1440.833/1440.-211.1920.1057@0.23.1440.833" timestamp="1631466943815" />
+    <state x="320" y="177" key="Vcs.Push.Dialog.v2" timestamp="1631540245547">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state x="320" y="177" key="Vcs.Push.Dialog.v2/0.23.1440.829/1440.-211.1920.1057@0.23.1440.829" timestamp="1631540245547" />
+    <state x="1867" y="-15" key="Vcs.Push.Dialog.v2/0.23.1440.831/1440.-211.1920.1057@1440.-211.1920.1057" timestamp="1631461766678" />
+    <state x="320" y="177" key="Vcs.Push.Dialog.v2/0.23.1440.831@0.23.1440.831" timestamp="1630862436295" />
+    <state x="1867" y="-15" key="Vcs.Push.Dialog.v2/0.23.1440.832/1440.-211.1920.1057@1440.-211.1920.1057" timestamp="1631464565357" />
+    <state x="1540" y="-111" width="1720" height="857" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1631464546679">
       <screen x="1440" y="-211" width="1920" height="1057" />
     </state>
-    <state x="1867" y="-15" key="Vcs.Push.Dialog.v2/0.23.1440.831/1440.-211.1920.1057@1440.-211.1920.1057" timestamp="1631456799686" />
-    <state x="320" y="177" key="Vcs.Push.Dialog.v2/0.23.1440.831@0.23.1440.831" timestamp="1630862436295" />
+    <state x="1540" y="-111" width="1720" height="857" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.23.1440.832/1440.-211.1920.1057@1440.-211.1920.1057" timestamp="1631464546679" />
     <state x="100" y="100" width="1240" height="700" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1631104893105">
       <screen x="0" y="23" width="1440" height="831" />
     </state>
     <state x="100" y="100" width="1240" height="700" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1440.900@0.0.1440.900" timestamp="1631104422612" />
     <state x="100" y="100" width="1240" height="700" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1440.831@0.23.1440.831" timestamp="1631104893105" />
-    <state width="800" height="520" key="javadoc.popup" timestamp="1630998586878">
-      <screen x="0" y="23" width="1920" height="1009" />
+    <state x="580" y="375" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1631540207529">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state x="580" y="375" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.829/1440.-211.1920.1057@0.23.1440.829" timestamp="1631540207529" />
+    <state x="2213" y="238" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.831/1440.-211.1920.1057@1440.-211.1920.1057" timestamp="1631463834421" />
+    <state width="800" height="545" key="javadoc.popup" timestamp="1631464328461">
+      <screen x="1440" y="-211" width="1920" height="1057" />
     </state>
     <state width="600" height="428" key="javadoc.popup/0.23.1440.831@0.23.1440.831" timestamp="1630944161765" />
+    <state width="800" height="545" key="javadoc.popup/0.23.1440.832/1440.-211.1920.1057@1440.-211.1920.1057" timestamp="1631464328461" />
     <state width="800" height="520" key="javadoc.popup/0.23.1920.1009@0.23.1920.1009" timestamp="1630998586878" />
     <state x="319" y="60" key="new project wizard" timestamp="1630862272486">
       <screen x="0" y="23" width="1440" height="831" />
     </state>
     <state x="319" y="60" key="new project wizard/0.23.1440.831@0.23.1440.831" timestamp="1630862272486" />
+    <state x="2065" y="24" width="670" height="676" key="search.everywhere.popup" timestamp="1631464242581">
+      <screen x="1440" y="-211" width="1920" height="1057" />
+    </state>
+    <state x="2065" y="24" width="670" height="676" key="search.everywhere.popup/0.23.1440.831/1440.-211.1920.1057@1440.-211.1920.1057" timestamp="1631460429338" />
+    <state x="2065" y="24" width="670" height="676" key="search.everywhere.popup/0.23.1440.832/1440.-211.1920.1057@1440.-211.1920.1057" timestamp="1631464242581" />
   </component>
 </project>
