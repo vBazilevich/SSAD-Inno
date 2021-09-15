@@ -1,18 +1,20 @@
 package com.moofiyTv.mossapp.homework;
 
-public interface Needs {
+// This interface violates Interface Segregation Principle
+// So lets split it into 5 smaller interfaces
+//public interface Needs {
 
-    void pray();
+    ////void pray();
 
-    void playSports();
+    ////void playSports();
 
-    void getMarried();
+    ////void getMarried();
 
-    void ownCompany();
+    ////void ownCompany();
 
-    void becomeEmployee();
-
-
+    ////void becomeEmployee();
 
 
-}
+
+
+//}

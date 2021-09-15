@@ -5,24 +5,31 @@ import java.util.List;
 
 // lab work
 // This Class violates all SOLID Principles, fix it in a Logical way ;
-public class Human implements Needs {
+public class Human extends Worker implements Enterpreneur, Religious, Romantic, Sportsman, Unemployed {
 
     private String name;
     private String nickname;
     private double salary;
+    private Language lang;
     private List<String> hobbies;
 
-    enum Languages {Arabic, English, Japanese}
-
-    String sayHello(Languages languages) {
-        if (languages == Languages.Arabic)
-            return "مرحبا";
-        return "Hello";
+    public Human(String name, double salary, Language lang) {
+        super(salary);
+        this.name = name;
+        this.lang = lang;
     }
 
-    void calculateTax(int percentage) {
-        salary = salary * percentage;
+    // This implementation violates Open-Close and Dependency inversion principles
+    //enum Languages {Arabic, English, Japanese}
+
+    String sayHello() {
+        return this.lang.sayHello();
     }
+
+    // Method calculateTax violates Single Responsibility principle. So, lets separate it into a new class Worker
+//    void calculateTax(int percentage) {
+        //salary = salary * percentage;
+//    }
 
     int addHobby(String hobby) {
         hobbies.add(hobby);
@@ -59,8 +66,8 @@ public class Human implements Needs {
 
 
     public static void main(String[] args) {
-        Human human = new Human();
-        human.sayHello(Languages.Arabic);
+        Human human = new Human("Bob", 3000.0, new Arabic());
+        human.sayHello();
     }
 
 }
